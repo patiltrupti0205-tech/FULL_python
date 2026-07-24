@@ -15,7 +15,7 @@ print("FOR LOOP")
 for i in range(5):
     print("Hello")
 
-print()
+print("range")
 
 # Example 2
 for i in range(1, 6):
@@ -32,7 +32,6 @@ for i in range(5):
     print(i)
 
 print()
-
 
 
 # range(start, stop)
